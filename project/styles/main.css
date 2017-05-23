@@ -49,8 +49,9 @@ nav{
   color: white;
 }
 .inner-mid{
+  height: 45px;
   text-align: center;
-  font-size: 66px;
+  font-size: 33.3px;
 
 }
 
